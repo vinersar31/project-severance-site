@@ -1,0 +1,5 @@
+:HL["/project-severance-site/_next/static/chunks/1m0lqf2j4cuw_.css","style"]
+:HL["/project-severance-site/_next/static/media/237858b39a32779d-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/project-severance-site/_next/static/media/53897e768d329f66-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"TcPhkwsdCWjdSQyep37VA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
