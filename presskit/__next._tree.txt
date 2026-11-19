@@ -3,4 +3,4 @@
 :HL["/project-severance-site/_next/static/media/53897e768d329f66-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"presskit","h":96,"c":"$Q2"}]]
-0:{"b":"lOVBfOZS-tmdnOsXFj3Kx","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"M3Utxr0pSHzDBwaQ-C-VT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
